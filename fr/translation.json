@@ -1,0 +1,20 @@
+{
+  "Bonjour {{firstName}} {{lastName}},": "Bonjour {{firstName}} {{lastName}},",
+  "Bonjour,": "Bonjour,",
+  "Confirmer la création de mon espace": "Confirmer la création de mon espace",
+  "L'équipe {{customerPortalName}}": "L'équipe {{customerPortalName}}",
+  "Le service client de votre agence vous accompagne, du lundi au vendredi, aux heures d'ouverture habituelles de": "Le service client de votre agence vous accompagne, du lundi au vendredi, aux heures d'ouverture habituelles de",
+  "Merci de votre compréhension.": "Merci de votre compréhension.",
+  "Nous avons bien reçu votre demande de réinitialisation de mot de passe pour votre Espace Client {{customerPortalName}}.": "Nous avons bien reçu votre demande de réinitialisation de mot de passe pour votre Espace Client {{customerPortalName}}.",
+  "Passé ce délai, le lien expirera et vous devrez refaire une demande de « mot de passe oublié ».": "Passé ce délai, le lien expirera et vous devrez refaire une demande de « mot de passe oublié ».",
+  "Réinitialiser mon mot de passe": "Réinitialiser mon mot de passe",
+  "Sachant que la sécurité est un enjeu très fort chez {{brandName}}, nous souhaitions valider cette modification avec vous.": "Sachant que la sécurité est un enjeu très fort chez {{brandName}}, nous souhaitions valider cette modification avec vous.",
+  "Si ces changements ne sont pas de votre fait, ou si vous suspectez une intrusion non autorisée sur votre compte, contactez sans tarder le service client de votre agence {{brandName}}.": "Si ces changements ne sont pas de votre fait, ou si vous suspectez une intrusion non autorisée sur votre compte, contactez sans tarder le service client de votre agence {{brandName}}.",
+  "Si vous ne parvenez pas à cliquer sur le lien ci-dessus, effectuez un copier-coller du lien suivant dans votre navigateur": "Si vous ne parvenez pas à cliquer sur le lien ci-dessus, effectuez un copier-coller du lien suivant dans votre navigateur",
+  "Vous avez fait une demande de création de votre espace client {{customerPortalName}}. Veuillez cliquer sur le lien ci-dessous pour certifier que vous êtes à l'origine de cette demande.": "Vous avez fait une demande de création de votre espace client {{customerPortalName}}. Veuillez cliquer sur le lien ci-dessous pour certifier que vous êtes à l'origine de cette demande.",
+  "Vous avez une question sur votre espace {{customerPortalName}} ?": "Vous avez une question sur votre espace {{customerPortalName}} ?",
+  "Vous n'avez pas fait de demande de réinitialisation de mot de passe ?": "Vous n'avez pas fait de demande de réinitialisation de mot de passe ?",
+  "ce lien": "ce lien",
+  "votre agence": "votre agence",
+  "À partir de maintenant, vous disposez d'une fenêtre de 15 minutes pour valider cette demande en cliquant sur le bouton ci-dessous ou en cliquant sur": "À partir de maintenant, vous disposez d'une fenêtre de 15 minutes pour valider cette demande en cliquant sur le bouton ci-dessous ou en cliquant sur"
+}
